@@ -3,7 +3,7 @@
 Proyecto de Limpieza de Datos - Supermarket Sales Dataset
 
 Este proyecto tiene como objetivo limpiar y procesar el dataset "Supermarket Sales" para prepararlo para su uso en Machine Learning. 
-A través de este proyecto, he realizado una serie de pasos de limpieza y transformación de datos utilizando Python y las librerías Pandas y NumPy.
+A través de este proyecto, he realizado una serie de pasos de limpieza y transformación de datos utilizando Python y la librería Pandas
 
 Descripción del Proyecto
 
@@ -23,7 +23,7 @@ Instrucciones para Ejecutar el Proyecto
 1. Clonar el repositorio
 Puedes clonar este repositorio en tu máquina local con el siguiente comando:
 
-git clone https://github.com/tu_usuario/supermarket-sales-cleaning-project.git
+git clone https://github.com/amonfiver/supermarket-sales-cleaning-project.git
 
 2. Instalar dependencias
 Este proyecto requiere de algunas librerías de Python. Puedes instalarlas usando pip:
